@@ -1,2 +1,4 @@
-message = "One of Python's strengths is its diverse community."
+# coding:utf-8
+
+message = "One of Python's strengths is its diverse community!"
 print(message)
