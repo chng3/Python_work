@@ -1,1 +1,3 @@
-# base on book "Python Crash Course"
+# The process of learning the book "Python Crash Course"
+- [ ] PART I: Basics
+
