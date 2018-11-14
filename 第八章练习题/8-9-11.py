@@ -61,7 +61,7 @@ def make_great(magicians):
        for great_magician in great_magicians:
               magicians.append(great_magician)
               
-       return miagicians
+       return m
 
 magicians = ['刘谦', 'harry houdini', 'david blaine', 'teller']
 show_magicians(magicians)
