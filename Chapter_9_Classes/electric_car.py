@@ -51,6 +51,10 @@ class ElectricCar(Car):
 my_tesla = ElectricCar('tesla', 'model s', 2016)
 print(my_tesla.get_descriptive_name())
 
+
+
+
+
 # 9.3.3 给子类定义属性和方法
 
 class ElectricCar(Car):
@@ -71,11 +75,20 @@ my_tesla = ElectricCar('tesla', 'model s', 2016)
 print(my_tesla.get_descriptive_name())
 my_tesla.describe_battery()
 
+
+
+
+
 # 9.3.4 重写父类的方法
 class ElectricCar(Car):
        def fill_gas_tank(self):
               """电动汽车没有油箱"""
               print("This car doesn't need a gas tank!")
+
+
+
+
+
 
 # 9.3.5 将实例用作属性
 
